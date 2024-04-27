@@ -1,2 +1,2 @@
 
-erikambalogh.github.io
+https://erikambalogh.github.io
